@@ -8,6 +8,8 @@ class FornecedorController extends Controller
 {
     public function index(){
 
+        // comentario para testar pc mapa
+
         $fornecedores = [
             0 => [
                 'nome' => 'Fornecedor 1',
